@@ -52,11 +52,17 @@ o	A skybox used for the world and immersion: (https://assetstore.unity.com/packa
 |     Player   movement                                                          |     6                            |
 |     Combining player movement with camera(cinemachine) orientation, bugfixing             |     1.5                            |
 |     Setting up camera with the pixel effect         |     1.5                              |
-|     Building   enemy random spawners, randomizing starting positions           |     2                              |
-|     Making timers   and connecting enemy spawning and game difficulty          |     1.5                            |
-|     Making UI   elements and research into TextMesh Pro                        |     1.5                            |
-|     Collisions   and bugfixing error with multiple collision all at once       |     0.5                            |
-|     Playtesting   and bugfixing fringe cases in rigidbody incorrect physics    |     1.5                            |
+|     Understanding and implementing the particle system           |     2                              |
+|     Creating the world          |     1.5                            |
+|     Making UI elements                        |     1.5                            |
+|     Collisions and bugfixing error with multiple collision all at once       |     2                            |
+|     Playtesting   and bugfixing fringe cases in rigidbody incorrect physics    |     5                            |
 |     Code   documentation                                                       |     1                              |
 |     Making readme                                                              |     0.5                            |
-|     **All**                                                                        |     **15.5**                           |
+|     **All**                                                                        |     **29.5**                           |
+
+## References
+-[How to make a  pixelated camera in unity:] (https://www.youtube.com/watch?v=L-tNbbov6Bo&t=355s)
+-[Setting up cinemachine/getting ideas of how it works:] (https://www.youtube.com/watch?v=jPU2ri4ZwxM)
+-[The developer of “A short hike” GDC talk:] (https://www.youtube.com/watch?v=ZW8gWgpptI8&t=355s) 
+-[How to make a character walk in Unity:] (https://www.youtube.com/watch?v=hlO0XlqZFBo&t=493s) 
