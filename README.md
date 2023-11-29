@@ -62,7 +62,7 @@ o	A skybox used for the world and immersion: (https://assetstore.unity.com/packa
 |     **All**                                                                        |     **29.5**                           |
 
 ## References
--[How to make a  pixelated camera in unity:] (https://www.youtube.com/watch?v=L-tNbbov6Bo&t=355s)
--[Setting up cinemachine/getting ideas of how it works:] (https://www.youtube.com/watch?v=jPU2ri4ZwxM)
--[The developer of “A short hike” GDC talk:] (https://www.youtube.com/watch?v=ZW8gWgpptI8&t=355s) 
--[How to make a character walk in Unity:] (https://www.youtube.com/watch?v=hlO0XlqZFBo&t=493s) 
+-[How to make a  pixelated camera in unity:](https://www.youtube.com/watch?v=L-tNbbov6Bo&t=355s)
+-[Setting up cinemachine/getting ideas of how it works:](https://www.youtube.com/watch?v=jPU2ri4ZwxM)
+-[The developer of “A short hike” GDC talk:](https://www.youtube.com/watch?v=ZW8gWgpptI8&t=355s) 
+-[How to make a character walk in Unity:](https://www.youtube.com/watch?v=hlO0XlqZFBo&t=493s) 
