@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class FeatherJump : MonoBehaviour
 {
+    
+    // Activates a trigger listener
     private void OnTriggerEnter(Collider other)
     {
         // Check if the player has collided with the object

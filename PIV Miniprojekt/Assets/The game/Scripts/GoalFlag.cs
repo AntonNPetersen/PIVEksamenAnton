@@ -6,7 +6,8 @@ using UnityEngine;
 public class GoalFlag : MonoBehaviour
 {
     public ParticleSystem confettiParticles;
-
+    
+    // Activates a trigger listener
     private void OnTriggerEnter(Collider other)
     {
         // Check if there is collision with the player

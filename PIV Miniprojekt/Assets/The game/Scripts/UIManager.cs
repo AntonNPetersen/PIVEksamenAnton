@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
-    public ClairMovement clairMovement; // Drag and drop your ClairMovement script here in the Inspector
+    public ClairMovement clairMovement; // To be able to drag and drop the movement script in the inspector
 
     public Image[] maxJumpsImages; // Array of UI Image components for maxJumps
     public Image[] remainingJumpsImages; // Array of UI Image components for remainingJumps
